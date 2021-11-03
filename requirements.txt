@@ -1,0 +1,15 @@
+big-O==0.10.1
+big-O-calculator==0.0.9.8.4
+cycler==0.10.0
+kiwisolver==1.3.2
+matplotlib==3.4.3
+mypy==0.910
+mypy-extensions==0.4.3
+numpy==1.21.2
+Pillow==8.3.2
+pure-func==1.2
+pyparsing==2.4.7
+python-dateutil==2.8.2
+six==1.16.0
+toml==0.10.2
+typing-extensions==3.10.0.2
