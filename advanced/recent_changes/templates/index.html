@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>home page</title>
+</head>
+<body>
+ <form method="GET">
+     <p>get last changes</p>
+            <input type="submit" value="submit">
+        </form>
+    {% if changes %}
+        {{ changes }}
+    {% endif %}
+</body>
+</html>
